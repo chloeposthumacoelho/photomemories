@@ -1,0 +1,9 @@
+@import "./components/imports"; 
+@import "./base/imports"; 
+@import "./utils/imports";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CACzB",
+    "sources": [
+        "main.scss",
+        "components/_imports.scss",
+        "base/_imports.scss",
+        "base/_colors.scss",
+        "base/_typography.scss",
+        "utils/_imports.scss",
+        "utils/_Responsive.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
